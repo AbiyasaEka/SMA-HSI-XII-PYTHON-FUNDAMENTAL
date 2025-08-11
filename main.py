@@ -3,7 +3,6 @@
 
 # file_handle = open('siswa/data_siswa.txt', 'r')
 
-# # seluruh_isi = file_handle.read()
 
 # # file_handle.close()  # Jangan lupa ditutup!
 # # print("--- Isi File ---")
